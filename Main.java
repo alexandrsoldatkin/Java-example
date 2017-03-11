@@ -46,6 +46,8 @@ public class Main {
 		
 		db.showAll();
 		
+		Sysout("new line");
+		
 //		db.editBook(2);
 //		db.deleteBook(1);
 //		db.showCategoryById(1);
